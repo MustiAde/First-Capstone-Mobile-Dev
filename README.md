@@ -1,3 +1,3 @@
-# First-Capstone-Mobile-Dev
+# First Capstone
 
-Write a Program to calculate Peter's grades.
+## Write a Program to calculate Peter's grades.
